@@ -1,1 +1,5 @@
+kmeans.c - host program which offloads the OpenCL kernel to run on UPMEM DPU
 
+OpenCL kernel programs:
+  kmeans_kernel_c.c
+  kmeans_swap.c
