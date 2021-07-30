@@ -1,1 +1,7 @@
 
+
+backprop_ocl.c - host program which offloads the OpenCL kernel to run on UPMEM DPU
+
+OpenCL kernel programs:
+  bpnn_layerforward_ocl.c
+  bpnn_adjust_weights_ocl.c
