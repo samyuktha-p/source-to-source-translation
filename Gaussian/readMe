@@ -1,1 +1,5 @@
+gaussianElim.c - host program which offloads the OpenCL kernel to run on UPMEM DPU
 
+OpenCL kernel programs:
+  Fan1.c
+  Fan2.c
