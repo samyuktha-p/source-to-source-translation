@@ -1,1 +1,1 @@
-# source-to-source-translation
+# source-to-source-translation of OpenCL to UPMEM DPU C
